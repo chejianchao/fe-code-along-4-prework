@@ -103,8 +103,6 @@ img, video, audio {
 
 .col-3 {
   background: #ccc;
-  top:0;
-  position: absolute;
 }
 
 [class*="col-"] {
